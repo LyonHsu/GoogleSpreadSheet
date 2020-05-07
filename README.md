@@ -30,7 +30,7 @@ Android 對 Google SpreadSheet 做讀取的動作，
                 "status": "ok",
                 "sig": "572817344",
                 "table": {
-                    "cols": [],
+                    "cols": [{"id":"A","label":"2019.06.12","type":"string"},{"id":"B","label":"","type":"number","pattern":"General"}],
                     "rows": ["c":[{"v":"20190613"},{"v":"Momo 電磁爐退款"}]],
                     "parsedNumHeaders": 1
                 }
