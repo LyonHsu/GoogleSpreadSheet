@@ -36,3 +36,9 @@ Android 對 Google SpreadSheet 做讀取的動作，
                 }
             }
              */
+             
+ https://www.avex.idv.tw/?p=642
+ 使用Google試算表來自動抓股價
+ 
+ 預設Google試算表不會自動更新，修改一下試算表自動計算的設定就可以了，他可以設定每分鐘或每小時自動更新。
+ 
